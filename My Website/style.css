@@ -1,0 +1,82 @@
+body {
+	background-color: #000;
+
+}
+h1 {
+	text-align: center;
+	background-color: mediumblue;
+	padding: 20px;
+	margin: 0px;
+}
+h2 {
+	color: mediumblue;
+	text-align: center;
+}
+nav {
+	text-align: center;
+	background-color: mediumblue;
+	padding: 10px;
+	color: black;
+}
+
+p {
+	color: royalblue;
+}
+
+nav a {
+	color: black;
+	padding: 15px;
+}
+.dude {
+	width: 350px;
+	height: 400px;
+	align-content: center;
+}
+.sum {
+	color: royalblue;
+}
+.hgp{
+	color:royalblue;
+}
+
+.dude {
+	width: 350px;
+	height: 400px;
+	align-content: center;
+}
+
+.pic {
+	padding-left: 100px;
+	width: 400px;
+	height: 450px;
+	padding-top: 0px;
+}
+
+.photo-row1{
+	display: flex;
+	width: 30%;
+}
+.done {
+	color: royalblue;
+}
+
+.intern {
+	padding-left: 100px;
+	width: 400px;
+	height: 450px;
+	padding-top: 0px;
+}
+
+.hoops {
+	padding-left: 100px;
+	width: 400px;
+	height: 450px;
+	padding-top: 0px;
+}
+
+.idk {
+	padding-left: 100px;
+	width: 400px;
+	height: 450px;
+	padding-top: 0px;
+}
